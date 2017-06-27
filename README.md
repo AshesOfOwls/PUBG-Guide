@@ -28,4 +28,4 @@ No opinions.
     * Spawn Locations
 1. Weapons
 1. [Point System](./PointSystem.md)
-    * Hit Points
+    * [Hit Points](.PointSystem.md#hit-points)
